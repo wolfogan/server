@@ -12,4 +12,4 @@ Homework:
 2. Basic web server with flask.
 ---
 
-![Tux, the Linux mascot](https://www.muylinux.com/wp-content/uploads/2017/06/github.png)
+![Octocat Power](https://www.muylinux.com/wp-content/uploads/2017/06/github.png)
