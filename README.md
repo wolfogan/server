@@ -2,9 +2,9 @@
 
 3 files in class:
 
-a) main.py:       A simple web server
-b) serverhtml.py: A simple web server with html response
-c) jinjapy.py:    A simple web server with render template html
+1. main.py:       A simple web server
+2. serverhtml.py: A simple web server with html response
+3. jinjapy.py:    A simple web server with render template html
 
 Homework:
 
